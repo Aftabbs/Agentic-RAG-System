@@ -1,5 +1,8 @@
 # Agentic RAG System
 
+<img width="1090" height="631" alt="image" src="https://github.com/user-attachments/assets/73e685c6-6ab5-46e5-b309-34566f3f9ad0" />
+
+
 Industry-grade Retrieval-Augmented Generation system with intelligent query routing, guardrails, and multi-source information retrieval.
 
 ## Features
