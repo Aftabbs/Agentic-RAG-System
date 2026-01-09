@@ -74,6 +74,13 @@ The application will open in your browser at `http://localhost:8501`.
 3. **Ask Questions**: Type your question in the chat input
 4. **View Sources**: Expand the "Sources" section to see where information came from
 
+
+<img width="1902" height="872" alt="image" src="https://github.com/user-attachments/assets/59a21e45-d4ca-463c-8762-65abf2c401ae" />
+
+
+<img width="1873" height="797" alt="image" src="https://github.com/user-attachments/assets/99ed75d3-29ad-4bf7-a9cf-5dd7ce7fc5ef" />
+
+
 ## Architecture
 
 ```
